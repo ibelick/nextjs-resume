@@ -1,8 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Resume Template
+
+This is a free, open-source resume template inspired by [read.cv](https://read.cv/). It's built with [Next.js 13](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [TypeScript](https://www.typescriptlang.org/). It also includes a dark mode and is optimized for SEO.
+
+<p align="center">
+    <img src="public/screenshot.jpg" width="500" />
+</p>
+
+## Features
+
+- Next.js 13
+- Tailwind CSS
+- TypeScript
+- Dark mode
+- SEO optimized
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/ibelick/nextjs-resume.git
+cd nextjs-resume
+
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
