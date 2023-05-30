@@ -116,7 +116,7 @@ export default function Home() {
             })}
           </div>
         </section>
-        <div className="absolute right-4 bottom-4">
+        <div className="px-6 absolute left-0 bottom-6">
           <ThemeSwitch />
         </div>
       </main>
