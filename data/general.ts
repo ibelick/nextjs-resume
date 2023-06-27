@@ -1,15 +1,15 @@
 export const generalData = {
-  name: "Julien Thibeaut",
+  name: "John Doe",
   avatar: "https://github.com/ibelick.png",
   jobTitle: "Senior Front-End Developer",
   website: "https://www.julienthibeaut.xyz",
   about:
-    "Hey there! I'm Julien, a senior front-end developer with 10 years of experience in web development.",
+    "Hey there! I'm John, a senior front-end developer with 10 years of experience in web development.",
   contacts: [
     {
       label: "Email",
-      value: "julien.thibeaut@gmail.com",
-      href: "mailto:julien.thibeaut@gmail.com",
+      value: "john.doe@gmail.com",
+      href: "mailto:john.doe@gmail.com",
     },
     {
       label: "Twitter",
